@@ -1,2 +1,2 @@
 ---
-- include_tasks:        '../tasks/hostname.yml'
+- include_tasks:        'tasks/common/hostname.yml'
